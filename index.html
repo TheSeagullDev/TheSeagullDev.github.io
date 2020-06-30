@@ -13,7 +13,18 @@
   <p>Hi, I'm Thingyman. I'm a middle schooler who enjoys reading, minecraft, and coding. I am fairly fluent in HTML, and am currently learning CSS and C++. I also plan to learn Javascript and python. </p>
   <br>
     <p>This button does nothing</p>
-    <button>Click this button</button>
+<body>
+
+   <button onclick="displayIframe()">Click this button</button>
+ <div id="iframeDisplay"></div>  
+
+<script>
+   function displayIframe() {
+       document.getElementById("iframeDisplay").innerHTML = "<iframe src=\"https://www.youtube-nocookie.com/embed/dQw4w9WgXcQ?start=1&autoplay=1\" allow=\"autoplay\" height=\"315\" width=\"560\" ></iframe>";
+
+   }
+</script>
+</body>
     
     <a title="CLICK ME" href="blog.html">My blog!</a>
 
