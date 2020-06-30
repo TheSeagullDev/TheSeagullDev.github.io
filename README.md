@@ -1,2 +1,2 @@
 # Thingyman-DEV.github.io
-My website
+Thingyman's official website
