@@ -1,12 +1,12 @@
 
 
 p {
-color: white;
 font-size: 40px;
 }
 
 body {
   background-color: 0000ff;
+  color: white;
 }
 
 button {
