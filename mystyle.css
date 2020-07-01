@@ -11,12 +11,13 @@ body {
 
 button {
   background-color: #fff;
-  border: solid;
-  color: black;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 8px; 
-  font-family: Notable;
-  border-radius: 15px;
+    border: solid;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 11px;
+    font-family: Notable;
+    border-radius: 11px;
+    height: 25px;
 }
