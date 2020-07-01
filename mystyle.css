@@ -25,10 +25,9 @@ h1 {
   font-family: Notable;
 }
 
-.center {
-  
+.center {  
   text-align: center;
- 
+}
 /* latin */
 @font-face {
   font-family: 'Notable';
