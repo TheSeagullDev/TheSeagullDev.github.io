@@ -1,4 +1,6 @@
-
+a:link {
+  color: #ffffff;
+}
 
 p {
 font-size: 40px;
@@ -6,7 +8,6 @@ font-size: 40px;
 
 body {
   background-color: #0000ff;
-  color: #ffffff;
 }
 
 button {
