@@ -1,14 +1,12 @@
 
-a {
-  color: black;
-}
+
 p {
 font-size: 40px;
 }
 
 body {
-  background-color: 0000ff;
-  color: white;
+  background-color: #0000ff;
+  color: #ffffff;
 }
 
 button {
