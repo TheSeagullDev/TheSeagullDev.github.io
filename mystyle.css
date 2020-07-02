@@ -46,7 +46,12 @@ h1 {
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #070760;
-  overflow: hidden;
+    overflow: hidden;
+    position: -webkit-sticky;
+    /* position: sticky; */
+    position: sticky;
+    top: 0;
+    border-radius: 15px;
 }
 
 /* Style the links inside the navigation bar */
