@@ -11,6 +11,11 @@ html {
   position: relative;
 }
 
+a {
+  color: white;
+  text-decoration: none;
+}
+
 body {
   font-family: 'Roboto Condensed', sans-serif;
 }
@@ -28,7 +33,7 @@ body {
   top: 0;
   left: 16px;
   margin-top: 10px;
-  border-radius: 20px;
+  border-radius: 20%;
 }
 
 .footer {
