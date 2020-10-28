@@ -6,9 +6,9 @@
 
 body {
   font-family: 'Roboto Condensed', sans-serif;
-  background-image: url(/assets/images/Gradient.jpeg);
+  background-image: url(/assets/images/Gradient.jpeg) no-repeat center fixed;
+;
   background-size: cover;
-  background-position: center;
 }
 
 .middle {
