@@ -6,7 +6,6 @@
 
 body {
   font-family: 'Roboto Condensed', sans-serif;
-  background-image: url("/assets/images/Gradient.jepg");
 }
 
 .middle {
@@ -16,15 +15,11 @@ body {
     transform: translate(-50%,-50%);
     text-align: center;
 }
-<<<<<<< HEAD
-=======
 
 .bgimg {
-    background-image: url(/assets/images/Gradient.jepg);
+    background-image: url(/assets/images/Gradient.jpeg);
     height: 100%;
     background-size: cover;
     background-position: center;
     position: relative;
-    background: linear-gradient(-100deg, #ffd3d2 0%, #f66f8e 23%, #80a0e9 100%);
 }
->>>>>>> parent of fb7ea27... Update base.scss
