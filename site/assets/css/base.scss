@@ -6,6 +6,7 @@
 
 body {
   font-family: 'Roboto Condensed', sans-serif;
+  background-image: url("/assets/images/Gradient.jepg");
 }
 
 .middle {
@@ -14,13 +15,4 @@ body {
     left: 50%;
     transform: translate(-50%,-50%);
     text-align: center;
-}
-
-.bgimg {
-    background-image: url("/assets/images/Gradient.jepg");
-    height: 100%;
-    background-size: cover;
-    background-position: center;
-    position: relative;
-    background: linear-gradient(-100deg, #ffd3d2 0%, #f66f8e 23%, #80a0e9 100%);
 }
