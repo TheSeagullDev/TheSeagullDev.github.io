@@ -18,4 +18,8 @@ body {
 
 .bgimg {
     background-image: url(/assets/images/Gradient.jepg);
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    position: relative;
 }
