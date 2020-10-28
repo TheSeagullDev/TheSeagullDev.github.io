@@ -33,10 +33,14 @@ body {
   top: 0;
   left: 16px;
   margin-top: 10px;
-  border-radius: 20%;
 }
 
 .footer {
   position: absolute;
   bottom: 0;
 }
+
+.brand img {
+  vertical-align: middle;
+  margin-right: 14px;
+  border-radius: 20%;
