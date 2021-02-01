@@ -13,6 +13,10 @@ body {
   font-family: "Roboto Condensed", sans-serif;
 }
 
+.container {
+  margin: 10px 20px;
+}
+
 a {
   color: black;
   text-decoration: none;
@@ -63,7 +67,6 @@ a {
 
 .nav a.active {
   color: rgb(255, 255, 255);
-  border-radius: 15%;
 }
 
 .footer {

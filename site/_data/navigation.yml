@@ -1,0 +1,10 @@
+items:
+  - name: About
+    link: /about
+    url: /about.html
+  - name: Blog
+    url: /blog.html
+    link: /blog
+  - name: Home
+    link: /
+    url: /

@@ -3,6 +3,8 @@ html, body { margin: 0; padding: 0; }
 
 body { font-family: "Roboto Condensed", sans-serif; }
 
+.container { margin: 10px 20px; }
+
 a { color: black; text-decoration: none; }
 
 .middle { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; font-size: 25px; }
@@ -17,6 +19,6 @@ a { color: black; text-decoration: none; }
 
 .nav a:hover { color: #ece6e6; }
 
-.nav a.active { color: white; border-radius: 15%; }
+.nav a.active { color: white; }
 
 .footer { padding: 5px 15px; color: black; position: absolute; bottom: 0; }
