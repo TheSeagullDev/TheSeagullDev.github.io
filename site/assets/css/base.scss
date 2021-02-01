@@ -85,8 +85,10 @@ a {
 }
 
 .footer {
-  padding: 5px 15px;
-  color: rgb(0, 0, 0);
-  position: absolute;
-  bottom: 0;
+    width: 100%;
+    padding: 5px 15px;
+    color: black;
+    position: absolute;
+    bottom: 0;
+    background: lightgray;
 }
