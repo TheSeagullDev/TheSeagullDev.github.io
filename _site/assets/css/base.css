@@ -1,8 +1,4 @@
----
----
-
 @import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap");
-
 html,
 body {
   margin: 0;
@@ -77,16 +73,16 @@ a {
 }
 
 .nav a:hover {
-  color: rgb(236, 230, 230);
+  color: #ece6e6;
 }
 
 .nav a.active {
-  color: rgb(255, 255, 255);
+  color: white;
 }
 
 .footer {
   padding: 5px 15px;
-  color: rgb(0, 0, 0);
+  color: black;
   position: absolute;
   bottom: 0;
 }

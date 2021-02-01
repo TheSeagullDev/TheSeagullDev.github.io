@@ -1,3 +1,9 @@
 <div class="nav">
-  <a class="brand" href="/"><img src="/assets/images/Favicon.png" width="64px" /><span>Thingyman</span></a>
+  <img src="/assets/images/Favicon.png" /><span><h1>Thingyman</h1></span>
+  {% for item in site.data.navigation.items %}
+  <a href="{{ site.baseurl }}{{ item.link }}" {% if page.url == item.url %}class="active" {% endif %}>
+    {{ item.name }}
+  </a>
+{% endfor %}
 </div>
+
