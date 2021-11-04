@@ -3,7 +3,7 @@ name: Deploy Site 👷
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   ci:
