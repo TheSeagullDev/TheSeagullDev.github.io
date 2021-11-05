@@ -1,15 +1,17 @@
 <template>
-  <div class="bg-blue-400 flex min-h-screen min-w-full">
+  <div class="bg-gradient-to-r from-blue-600 to-blue-800 flex min-h-screen min-w-full">
     <div
       class="
         bg-blue-500
         text-center
         w-1/3
+        lg:w-1/2
         text-2xl
         m-auto
         px-4
         py-12
         rounded-md
+        shadow-lg
       "
     >
       <p class="font-bold text-6xl py-2">Hello!</p>
