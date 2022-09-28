@@ -4,7 +4,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Thingyman-DEV.github.io',
+    title: 'TheSeagullDev.github.io',
     htmlAttrs: {
       lang: 'en'
     },
